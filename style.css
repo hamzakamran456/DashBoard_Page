@@ -114,10 +114,10 @@ b {
 }
 
 .container {
-    width: 96%;
+    width: 94%;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 12rem auto 23rem;
+    grid-template-columns: 13rem auto 23rem;
     gap: 28px;
 }
 
